@@ -1,0 +1,70 @@
+html{
+  background:white;
+}
+
+article{
+  margin:10%;
+}
+.art-div {
+  border: 2px solid black;
+  border-radius: 3px;
+  padding: 2% 5%;
+}
+
+code {
+  background: lightgrey;
+  border-radius: 1vh;
+}
+
+li>img {
+  max-width: 100%;
+}
+
+iframe{
+    max-width:90%;
+    min-width:60%;
+}
+
+
+table {
+  border-style: solid;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: #A39AAC;
+  border-style: dashed;
+}
+
+td {
+  border-style: solid;
+}
+
+
+#borderli div {
+  padding: 1vw;
+}
+
+#b1 {
+  border-style:dashed;
+}
+
+#b2 {
+  border-style:dotted;
+}
+
+#b3 {
+  border-style:groove;
+}
+
+#b4 {
+  border-style:ridge;
+}
+
+
+
+footer{
+  border-top: 2px solid black;
+  background-color: #F48132;
+  padding: 0 0 0 2%;
+}
