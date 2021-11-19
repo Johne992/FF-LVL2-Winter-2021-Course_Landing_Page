@@ -10,6 +10,11 @@ article{
   border-radius: 3px;
   padding: 2% 5%;
 }
+.code {
+  background-color: grey;
+  font-family:monospace;
+  
+}
 
 code {
   background: lightgrey;
